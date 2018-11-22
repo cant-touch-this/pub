@@ -3,6 +3,15 @@
 File repo with public refs.
 
 
+# Referencing
+
+You can refer to a file following this format:
+`https://raw.githubusercontent.com/cant-touch-this/pub/master/<media type>/<file extension>/<file name>.<file extension>`
+
+for example:
+`https://github.com/cant-touch-this/pub/raw/master/pix/gif/mc-hammer.gif`
+
+
 # Copyright Infringements
 
 All of the content of this repo was taken from freely available online
